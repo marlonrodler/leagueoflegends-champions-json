@@ -241,7 +241,7 @@
     },
     "Jayce": {
       "name": "Jayce",
-      "region": "Runeterra",
+      "region": "Piltover",
       "urlImgLoading": "http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Jayce_0.jpg"
     },
     "Jhin": {
@@ -251,7 +251,7 @@
     },
     "Jinx": {
       "name": "Jinx",
-      "region": "Ionia",
+      "region": "Zaun",
       "urlImgLoading": "http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Jinx_0.jpg"
     },
     "KSante": {
