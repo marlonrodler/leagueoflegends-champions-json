@@ -384,6 +384,11 @@
       "region": "Ionia",
       "urlImgLoading": "http://ddragon.leagueoflegends.com/cdn/img/champion/loading/MasterYi_0.jpg"
     },
+    "Milio": {
+      "name": "Milio",
+      "region": "Ixtal",
+      "urlImgLoading": "http://ddragon.leagueoflegends.com/cdn/img/champion/loading/Milio_0.jpg"
+    },
     "MissFortune": {
       "name": "Miss Fortune",
       "region": "Águas de Sentina",
